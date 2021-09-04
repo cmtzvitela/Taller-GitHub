@@ -1,2 +1,2 @@
-Primer linea de master
-Segunda linea de master
+Primer linea de conflictiva
+Segunda linea de conflictiva
